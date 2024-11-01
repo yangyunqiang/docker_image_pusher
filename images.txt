@@ -1,1 +1,1 @@
---platform=linux/x86-64 centos:7
+registry.k8s.io/kube-apiserver:v1.28.15
